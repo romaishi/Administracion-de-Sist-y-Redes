@@ -1,4 +1,4 @@
-# TP6: Diseño y Configuración de Redes con ACLs
+# TP7: Diseño y Configuración de Redes con ACLs
 
 Este repositorio contiene el diseño, la configuración y la verificación de una red con dos routers interconectados, switches seccionales con VLANs, y diversos servicios de red. Además, se incluyen 5 ejercicios prácticos enfocados en la implementación y prueba de Listas de Control de Acceso (ACLs) Estándar y Extendidas.
 
